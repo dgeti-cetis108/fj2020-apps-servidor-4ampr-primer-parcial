@@ -1,0 +1,11 @@
+Base de datos SQL para prestamo de libros
+
+Tabla users
+id numerico, autoincremental, llave primaria
+name texto maximo de 20, obligatorio, unico
+password texto maximo de 200, obligatorio
+email texto maximo de 200, obligatorio, unico
+curp texto maximo de 18, obligatorio, unico
+firstname texto maximo de 50, obligatorio
+lastname texto maximo de 50, obligatorio
+remember texto maximo de 200, no obligatorio
