@@ -1,0 +1,16 @@
+Nombres de archivos y directorios
++ En minúsculas
++ Sin espacios (utilizar - o _)
++ Debe iniciar con una letra
++ No utilizar símbolos, letras con tilde, diéresis, etc
++ El nombre del archivo principal puede ser:
+    - index.* (htm, html, php, asp, aspx, jsp) etc
+    - Default.*
+
+Editar el archivo D:\xampp\php\php.ini
+include_path=d:\xampp\php\pear
+extension_dir="d:\xampp\php\ext"
+browscap="d:\xampp\php\extra\browscap.ini"
+
+Cuando un archivo PHP solo tenga codigo php, se recomienda
+no cerrar la etiqueta del codigo
