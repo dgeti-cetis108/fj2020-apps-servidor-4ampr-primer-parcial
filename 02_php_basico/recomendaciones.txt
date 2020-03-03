@@ -14,3 +14,7 @@ browscap="d:\xampp\php\extra\browscap.ini"
 
 Cuando un archivo PHP solo tenga codigo php, se recomienda
 no cerrar la etiqueta del codigo
+
+Correr un servidor de desarrollo PHP
+Ubicarse en la carpeta donde estan los scripts php
+$ php -S localhost:8000
